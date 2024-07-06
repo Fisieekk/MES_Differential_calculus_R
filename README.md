@@ -1,6 +1,6 @@
 <body>
 
-# MES - Finite element method
+# FEM - Finite element method
 ## Project for Differential Calculus Course
 ### Creator:
   Marcin Serafin
